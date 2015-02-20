@@ -1,4 +1,4 @@
-# close-comment-tag.el[![Build Status](https://travis-ci.org/syohex/emacs-close-comment-tag.png)](https://travis-ci.org/syohex/emacs-close-comment-tag)
+# close-comment-tag.el[![Build Status](https://travis-ci.org/syohex/emacs-close-comment-tag.svg)](https://travis-ci.org/syohex/emacs-close-comment-tag)
 
 Insert comment tag before end tag. Comment tag contain `id` and `class` attributes.
 This is Emacs port of [Dreamwearver plugin](http://design.kayac.com/topics/2010/05/dreamweaver-extention.php) and [Sublimetext CloseCommentTag](https://github.com/Satoh-D/CloseCommentTag)
